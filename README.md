@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @supreethraj13
 - 🤓 I'm a beginner
-- 👀 I’m interested in game development
 - 🌱 I’m currently learning c,c++,dsa,app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me supreethrajs@gmail.com
